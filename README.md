@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on opensource iniciatives
 - 🤔 I’m looking for help with Fullstack
 - 📫 How to reach me: vipavani@hotmail.com
-- ⚡ Fun fact: There is no cloud, it's allways someone computer. 
+- ⚡ Fun fact: There is no cloud, it's allways someone else computer. 
 
 
 <div align="center">
