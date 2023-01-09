@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on opensource iniciatives
 - 🤔 I’m looking for help with Fullstack
-- 📫 How to reach me: vipavani@hotmail.com
+- 📫 How to reach me: vipavani@hotmail.com 
 - ⚡ Fun fact: There is no cloud, it's allways someone else computer. 
 
 
