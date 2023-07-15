@@ -28,7 +28,7 @@
   <img title="ArgoCD" align="center" alt="argocd" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" />
   <img title="MongoDB" align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img title="Prometheus" align="center" alt="Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-</div>
+</div> 
   
   ##
  
